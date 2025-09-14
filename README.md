@@ -48,7 +48,7 @@ PreceMap/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/PreceMap.git
+git clone https://github.com/Darpan321/PreceMap.git
 cd PreceMap
 ```
 
