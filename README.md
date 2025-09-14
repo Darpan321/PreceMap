@@ -15,13 +15,13 @@ An AI-powered route analysis tool that helps you find the **best travel route** 
 ---
 
 ## 📸 Screenshots
-![UI Screenshot](https://drive.google.com/file/d/1244jjBxGuVr7Xdn8oWamLX7UwTslvpUS/view?usp=sharing)  
+https://drive.google.com/file/d/1244jjBxGuVr7Xdn8oWamLX7UwTslvpUS/view?usp=sharing
 *Enter origin, destination, and departure time.*
 
-![Route Analysis](https://drive.google.com/file/d/18tGC_TNe1M9t2MwIONxg7w6xTTclffCM/view?usp=sharing)  
+https://drive.google.com/file/d/18tGC_TNe1M9t2MwIONxg7w6xTTclffCM/view?usp=sharing 
 *AI route recommendation with detailed reasoning.*
 
-![Extra Insights](https://drive.google.com/file/d/16w0BwKQnZvlLn_DMqbqPIuqnJFBUBpk_/view?usp=sharing)  
+https://drive.google.com/file/d/16w0BwKQnZvlLn_DMqbqPIuqnJFBUBpk_/view?usp=sharing
 *Additional travel tips and cautions.*
 
 ---
