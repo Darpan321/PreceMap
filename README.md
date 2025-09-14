@@ -36,8 +36,8 @@ https://drive.google.com/file/d/16w0BwKQnZvlLn_DMqbqPIuqnJFBUBpk_/view?usp=shari
 
 ## 📂 Project Structure
 ```
-PreceMap/
-│── PreceMap.ipynb        # Colab notebook (core logic + API calls)
+PrecisMap/
+│── PrecisMap.ipynb        # Colab notebook (core logic + API calls)
 │── screenshots/          # Project screenshots
 │── README.md             # Project documentation
 ```
@@ -48,7 +48,7 @@ PreceMap/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Darpan321/PreceMap.git
+git clone https://github.com/Darpan321/PrecisMap.git
 cd PreceMap
 ```
 
