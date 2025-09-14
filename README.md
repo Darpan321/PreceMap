@@ -38,9 +38,6 @@ https://drive.google.com/file/d/16w0BwKQnZvlLn_DMqbqPIuqnJFBUBpk_/view?usp=shari
 ```
 PreceMap/
 │── PreceMap.ipynb        # Colab notebook (core logic + API calls)
-│── app.py                # Flask app for route input + results
-│── templates/            # HTML templates
-│── static/               # CSS / assets
 │── screenshots/          # Project screenshots
 │── README.md             # Project documentation
 ```
