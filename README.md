@@ -1,4 +1,4 @@
-# PreceMap 🗺️  
+# PrecisMap 🗺️  
 An AI-powered route analysis tool that helps you find the **best travel route** with smart suggestions, detailed breakdowns, and optimization tips.  
 
 ---
